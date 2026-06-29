@@ -14,10 +14,4 @@ main{
 
 tr, th, td{
     padding: 10px !important;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.tr_head_suivi{
-    background: #cccccc;
 }
